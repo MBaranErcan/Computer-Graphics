@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Robot Arm</title>
+
+    <script type="text/javascript" src="Common/initShaders2.js"></script>
+    <script type="text/javascript" src="Common/MVnew.js"></script>
+    <script type="text/javascript" src="Common/flatten.js"></script>
+    <script type="text/javascript" src="robot_arm.js"></script>
+
+</head>
+
+<body>
+    <!-- This is the canvas - the only HTML element that can render WebGL 
+         graphics. You can have more than one WebGL canvas on a web page, but
+         that gets tricky. Stick to one per page for now. -->
+    <canvas id="gl-canvas" width="512" height="512">
+        Oops ... your browser doesn't support the HTML5 canvas element
+    </canvas>
+</body>
+</html>
+
+
+I used the same order as in the pdf: </br>
+• f/F – Open/Close claw</br>
+• x/X: to rotate the arm on the X axis so you can see it from different angles </br>
+• y/Y: to rotate the arm on the Y axis so you can see it from different angles </br>
+• a/A: to rotate the fingers on the x-axis with a positive direction </br>
+• b/B: to rotate the fingers on the x-axis with a negative direction </br>
+• m/M: to rotate the fingers on the y-axis with a positive direction</br>
+• n/N: to rotate the fingers on the y-axis with negative direction </br>
+• t/T: toggle between solid and wire cubes</br>
+• p/P: toggle between perspective and ortho projections
