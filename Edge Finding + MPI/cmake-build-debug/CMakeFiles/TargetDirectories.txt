@@ -1,3 +1,0 @@
-C:/Users/musta/Desktop/Okul/SENG 442/Image Processing/Edge Finding/cmake-build-debug/CMakeFiles/Edge_Finding.dir
-C:/Users/musta/Desktop/Okul/SENG 442/Image Processing/Edge Finding/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/musta/Desktop/Okul/SENG 442/Image Processing/Edge Finding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
