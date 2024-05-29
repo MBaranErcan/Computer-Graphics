@@ -1,0 +1,4 @@
+"C:\Users\musta\AppData\Local\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/musta/AppData/Local/JetBrains/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\musta\Desktop\Okul\SENG 442\Image Processing\Edge Finding" -B "C:\Users\musta\Desktop\Okul\SENG 442\Image Processing\Edge Finding\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/musta/Desktop/Okul/SENG 442/Image Processing/Edge Finding/cmake-build-debug
